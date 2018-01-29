@@ -9,6 +9,7 @@ from xls_builder import build_xls
 from subprocess import Popen
 import os
 
+'''Main script which runs other scripts in threads'''
 
 t = time.time()
 
