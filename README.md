@@ -1,5 +1,5 @@
 ## Description
-This is a dom.ria parser which parses selected state and gives .xls output about all realtors and individuals selling realties in selected state in the next format:
+This is a dom.ria.ua parser which parses selected state and gives .xls output about all realtors and individuals selling realties in selected state in the next format:
 * name
 * type (realtor or not)
 * agency (if realtor)
