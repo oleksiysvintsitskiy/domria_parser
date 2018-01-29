@@ -2,6 +2,8 @@ import requests
 import json
 from progress_bar import progress
 
+'''Simulating going through all pages in search engine of dom.ria to get urls'''
+
 STATE_ID = 0
 with open('state_id.txt', 'r') as f:
 	STATE_ID = int(f.readline())
