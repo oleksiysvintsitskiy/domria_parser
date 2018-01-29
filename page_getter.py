@@ -7,6 +7,8 @@ import time
 import re
 from progress_bar import progress
 
+'''Parsing page with ad to get user information'''
+
 with open('state_name.txt', 'r', encoding = 'utf-8') as f:
 	state_name = f.read()
 
