@@ -1,5 +1,5 @@
 ## Description
-This is a dom.ria.ua parser which parses selected state and gives .xls output about all realtors and individuals selling realties in selected state in the next format:
+This is a [dom.ria.ua] parser which parses selected state and gives **.xls** output about all realtors and individuals selling realties in selected state in the next format:
 * name
 * type (realtor or not)
 * agency (if realtor)
@@ -11,4 +11,4 @@ This is a dom.ria.ua parser which parses selected state and gives .xls output ab
 Works in 10 threads by default (THREADS_NUM variable in main.py).
 
 ## Usage
-Enter id of state in state_id.txt file and run main.py.
+Enter id of state in **state_id.txt** file and run **main.py**.
