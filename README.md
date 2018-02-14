@@ -8,6 +8,7 @@ This is a [dom.ria.ua](https://dom.ria.com/) parser which parses selected state 
 * state
 * city
 * phone numbers
+
 Works in 10 threads by default (THREADS_NUM variable in main.py).
 
 ## Usage
